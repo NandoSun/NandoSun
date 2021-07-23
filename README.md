@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandoSun
 - 👀 I’m interested in numerical methods, simulation of fluid flow, fractals and all things pretty to look at
-- 🌱 I’m currently learning Chemical and Process Engineering at Karlsruhe Intutute of Technology
+- 🌱 I’m currently studying Chemical and Process Engineering at Karlsruhe Intutute of Technology
 - 📫 How to reach me: nando.suntoyo@gmx.de
 
 <!---
